@@ -1,0 +1,19 @@
+body {
+    background-color: #26323B;
+    color: white;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 20px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1, h2 {
+    color: #B97D04;
+}
+
+a {
+    color: #709FD2;
+}
